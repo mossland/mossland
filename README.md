@@ -70,7 +70,7 @@ This is the **main Mossland account** — the front door to everything we do on 
 
 ---
 
-## 🛡️ Security
+## 🚨 Security
 
 If you believe you've found a security issue, **please do not open a public issue.**  
 Email: **[contact@moss.land](mailto:contact@moss.land)**
